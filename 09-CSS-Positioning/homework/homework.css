@@ -50,9 +50,8 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
     display: flex;
     justify-content: space-between;
     align-items: center;
-    flex-flow: row-reverse;
+    flex-flow: row-reverse; 
 }
-
 
 
 
