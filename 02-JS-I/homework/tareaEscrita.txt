@@ -1,0 +1,24 @@
+Variables
+
+    veamos a varible como una caja donde puedes guardar algun tipo de informacion pata luego usarlo cuando lo nesecites o quieras simplemente usarlo
+
+Strings
+
+    el estrin es un conjunto de letras o palabras o numero, ordenados en envueltos entre comillas simples o dobles
+
+funciones (argumentos , return)
+    una funcion es unconjuto de operaciones  e instrucciones para que realise una tarea
+        (argumetos)
+            un argumento es un tipo especial de dato que se genera en el interior de cada uno de las funciones
+        (return)
+
+
+Declaraciones
+    una de claracion es una instrucciones que se le da al interprete
+        (if) es una structura de control para tomar deciciones 
+
+valores booleanos
+
+    los operardoes booleanos son codigos que estan escritos en codigos      0.1  
+           
+    
