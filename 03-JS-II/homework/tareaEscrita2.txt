@@ -1,0 +1,13 @@
+for 
+
+    for es un ciclo que se repite hasta que una condicion especifica se evalue y arroje un resultado
+&&
+
+    es un operador logico  Y (AND) esta escrito por &&, evaluara una mas expreciones y devolvera verdadero si ambas exprexiones son verdaderas y si una o ambas son false devolvera false se usa como la palabra y
+||
+
+    el siguiente operador "O" "OR"
+    esta escrito por estas dos barras verticales. determina si una exprecion es true 
+
+!
+    este operador logico es el "no" "not" y esta escrito por un solo signo de exclamacion este devolvera el valor opuesto que se le pasa     

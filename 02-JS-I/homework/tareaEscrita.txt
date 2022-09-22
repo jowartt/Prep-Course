@@ -1,6 +1,6 @@
 Variables
 
-    veamos a varible como una caja donde puedes guardar algun tipo de informacion pata luego usarlo cuando lo nesecites o quieras simplemente usarlo
+    veamos a varible como una caja donde puedes guardar algun tipo de informacion para luego usarlo cuando lo nesecites o quieras simplemente usarlo
 
 Strings
 
